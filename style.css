@@ -82,7 +82,6 @@ h1{
     left: 0;
     width: 50%;
     height: 100%;
-    background: rgba(255,255,255,0.1);
     pointer-events: none;
 }
 
@@ -94,4 +93,19 @@ h1{
     font-weight: 20px;
     z-index: 10;
     padding: 20px 40px;
+}
+
+p{
+    margin-top: 40em;
+    margin-right: -9em;
+}
+
+a{
+    text-decoration: none;
+    color: ivory;
+}
+
+a:hover{
+    color: rgb(253, 222, 84);
+    cursor: pointer;
 }
